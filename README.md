@@ -76,9 +76,7 @@ Install this project with:
   cd my-project
   npm install
 ```
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -117,9 +115,8 @@ I would like to thank my partner.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./MIT.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
